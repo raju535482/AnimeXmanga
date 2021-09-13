@@ -1,0 +1,88 @@
+com/rajuyadav/animexmanga/injection/modules/AppModule_ProviderContext$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.AppModule_ProviderContext$app_debugFactory
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/rajuyadav/animexmanga/injection/modules/NetworkModule_ProvideHttpLoggingInterceptorFactory.java
+ com.rajuyadav.animexmanga.injection.modules.NetworkModule_ProvideHttpLoggingInterceptorFactory
+ com.rajuyadav.animexmanga.injection.modules.NetworkModule_ProvideHttpLoggingInterceptorFactory$InstanceHolder
+com/rajuyadav/animexmanga/DataBindingTriggerClass.java
+ com.rajuyadav.animexmanga.DataBindingTriggerClass
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/rajuyadav/animexmanga/database/MangaRoomDatabase_Impl.java
+ com.rajuyadav.animexmanga.database.MangaRoomDatabase_Impl
+ com.rajuyadav.animexmanga.database.MangaRoomDatabase_Impl$1
+com/rajuyadav/animexmanga/injection/modules/AppModule_ProviderUtils$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.AppModule_ProviderUtils$app_debugFactory
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/rajuyadav/animexmanga/generated/callback/OnClickListener.java
+ com.rajuyadav.animexmanga.generated.callback.OnClickListener
+ com.rajuyadav.animexmanga.generated.callback.OnClickListener$Listener
+com/rajuyadav/animexmanga/database/dao/MangaDao_Impl.java
+ com.rajuyadav.animexmanga.database.dao.MangaDao_Impl
+ com.rajuyadav.animexmanga.database.dao.MangaDao_Impl$1
+ com.rajuyadav.animexmanga.database.dao.MangaDao_Impl$2
+ com.rajuyadav.animexmanga.database.dao.MangaDao_Impl$3
+com/rajuyadav/animexmanga/injection/modules/AppModule_ProviderMangaDatabase$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.AppModule_ProviderMangaDatabase$app_debugFactory
+com/rajuyadav/animexmanga/injection/modules/AppModule_ProvideCoroutineScope$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.AppModule_ProvideCoroutineScope$app_debugFactory
+com/rajuyadav/animexmanga/BuildConfig.java
+ com.rajuyadav.animexmanga.BuildConfig
+com/rajuyadav/animexmanga/BR.java
+ com.rajuyadav.animexmanga.BR
+com/rajuyadav/animexmanga/injection/modules/AppModule_ProvidesSharedPrefereces$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.AppModule_ProvidesSharedPrefereces$app_debugFactory
+com/rajuyadav/animexmanga/injection/modules/NetworkModule_ProvideClientFactory.java
+ com.rajuyadav.animexmanga.injection.modules.NetworkModule_ProvideClientFactory
+ com.rajuyadav.animexmanga.injection.modules.NetworkModule_ProvideClientFactory$InstanceHolder
+com/rajuyadav/animexmanga/injection/modules/NetworkModule_ProvideRetrofitInterface$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.NetworkModule_ProvideRetrofitInterface$app_debugFactory
+ com.rajuyadav.animexmanga.injection.modules.NetworkModule_ProvideRetrofitInterface$app_debugFactory$InstanceHolder
+com/rajuyadav/animexmanga/injection/modules/AppModule_ProvidesSharedPreferencesEditor$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.AppModule_ProvidesSharedPreferencesEditor$app_debugFactory
+com/rajuyadav/animexmanga/injection/modules/NetworkModule_ProvidePostApi$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.NetworkModule_ProvidePostApi$app_debugFactory
+com/rajuyadav/animexmanga/injection/modules/AppModule_ProviderApplication$app_debugFactory.java
+ com.rajuyadav.animexmanga.injection.modules.AppModule_ProviderApplication$app_debugFactory
+com/rajuyadav/animexmanga/databinding/ActivityBaseBinding.java
+ com.rajuyadav.animexmanga.databinding.ActivityBaseBinding
+com/rajuyadav/animexmanga/DataBinderMapperImpl.java
+ com.rajuyadav.animexmanga.DataBinderMapperImpl
+ com.rajuyadav.animexmanga.DataBinderMapperImpl$InnerBrLookup
+ com.rajuyadav.animexmanga.DataBinderMapperImpl$InnerLayoutIdLookup
+com/rajuyadav/animexmanga/databinding/MangaDetailsItemListBinding.java
+ com.rajuyadav.animexmanga.databinding.MangaDetailsItemListBinding
+com/rajuyadav/animexmanga/databinding/ActivitySplashBindingImpl.java
+ com.rajuyadav.animexmanga.databinding.ActivitySplashBindingImpl
+com/rajuyadav/animexmanga/databinding/MangaDetailsItemListBindingImpl.java
+ com.rajuyadav.animexmanga.databinding.MangaDetailsItemListBindingImpl
+com/rajuyadav/animexmanga/databinding/ActivitySplashBinding.java
+ com.rajuyadav.animexmanga.databinding.ActivitySplashBinding
+com/rajuyadav/animexmanga/databinding/ActivityMangaDetailsBindingImpl.java
+ com.rajuyadav.animexmanga.databinding.ActivityMangaDetailsBindingImpl
+com/rajuyadav/animexmanga/databinding/ActivityMainBindingImpl.java
+ com.rajuyadav.animexmanga.databinding.ActivityMainBindingImpl
+com/rajuyadav/animexmanga/databinding/ActivityZoomBindingImpl.java
+ com.rajuyadav.animexmanga.databinding.ActivityZoomBindingImpl
+com/rajuyadav/animexmanga/viewmodel/MainViewModel_MembersInjector.java
+ com.rajuyadav.animexmanga.viewmodel.MainViewModel_MembersInjector
+com/rajuyadav/animexmanga/databinding/ActivityMainBinding.java
+ com.rajuyadav.animexmanga.databinding.ActivityMainBinding
+com/rajuyadav/animexmanga/databinding/ItemListBindingImpl.java
+ com.rajuyadav.animexmanga.databinding.ItemListBindingImpl
+com/rajuyadav/animexmanga/databinding/ActivityZoomBinding.java
+ com.rajuyadav.animexmanga.databinding.ActivityZoomBinding
+com/rajuyadav/animexmanga/databinding/ActivityMangaViewpagerDetailsBinding.java
+ com.rajuyadav.animexmanga.databinding.ActivityMangaViewpagerDetailsBinding
+com/rajuyadav/animexmanga/injection/component/DaggerAppComponent.java
+ com.rajuyadav.animexmanga.injection.component.DaggerAppComponent
+ com.rajuyadav.animexmanga.injection.component.DaggerAppComponent$1
+ com.rajuyadav.animexmanga.injection.component.DaggerAppComponent$Builder
+com/rajuyadav/animexmanga/databinding/ItemListBinding.java
+ com.rajuyadav.animexmanga.databinding.ItemListBinding
+com/rajuyadav/animexmanga/databinding/ActivityMangaViewpagerDetailsBindingImpl.java
+ com.rajuyadav.animexmanga.databinding.ActivityMangaViewpagerDetailsBindingImpl
+com/rajuyadav/animexmanga/databinding/ActivityMangaDetailsBinding.java
+ com.rajuyadav.animexmanga.databinding.ActivityMangaDetailsBinding

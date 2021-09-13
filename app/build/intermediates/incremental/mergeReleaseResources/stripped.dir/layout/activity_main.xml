@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                 
+                            
+                                                                       
+
+                 
+                          
+                                                                         
+
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/yellow_100" android:tag="layout/activity_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <TextView
+            android:id="@+id/activity_main_textview_app_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="@string/app_name"
+            android:textColor="@color/blue_900"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="bold"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/activity_main_edittext_search_manga"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:autofillHints="@string/search_manga"
+            android:background="@drawable/message_options_border"
+            android:ellipsize="end"
+            android:hint="@string/search_manga"
+            android:inputType="text"
+            android:lines="1"
+            android:maxLines="1"
+            android:padding="@dimen/_10sdp"
+            android:textColor="@color/blue_900"
+            android:textColorHint="@color/grey_black_1000"
+            android:textSize="@dimen/_10ssp"
+            app:layout_constraintEnd_toStartOf="@+id/activity_main_button_search"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/activity_main_textview_app_title"
+            tools:targetApi="m" />
+
+        <Button
+            android:id="@+id/activity_main_button_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:background="@drawable/message_options_border"
+            android:text="@string/search_text"
+            android:textAllCaps="false"
+            android:textColor="@color/blue_900"
+            android:textSize="@dimen/_10ssp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/activity_main_edittext_search_manga"
+            app:layout_constraintTop_toBottomOf="@id/activity_main_textview_app_title" />
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipe_refresh_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/adView"
+            app:layout_constraintTop_toBottomOf="@+id/activity_main_edittext_search_manga">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/activity_main_recyclerview_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_5sdp" />
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/anime_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:backgroundTint="#DA863D"
+            android:src="@mipmap/ic_videos"
+            app:layout_constraintBottom_toTopOf="@+id/adView"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/admob_app_banner_id"
+            ads:layout_constraintBottom_toBottomOf="parent"
+            tools:ignore="MissingConstraints" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

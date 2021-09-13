@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">711913667573-vqkv151f8gonvlapljegja6k6v03nnq6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://rakt-daan-d7da2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">711913667573</string>
+    <string name="google_api_key" translatable="false">AIzaSyA5jftrnjBeoH5OlWb75u19293agAQSDmA</string>
+    <string name="google_app_id" translatable="false">1:711913667573:android:6b5b2a6ef68c77654d3ebc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA5jftrnjBeoH5OlWb75u19293agAQSDmA</string>
+    <string name="google_storage_bucket" translatable="false">rakt-daan-d7da2.appspot.com</string>
+    <string name="project_id" translatable="false">rakt-daan-d7da2</string>
+</resources>

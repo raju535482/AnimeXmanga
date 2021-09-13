@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                 
+                            
+                                                                       
+
+                 
+                         
+                            
+
+                                           
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_black"
+        tools:context=".ui.ZoomActivity" android:tag="layout/activity_zoom_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <com.rajuyadav.animexmanga.utilities.ZoomClass
+            android:id="@+id/largeImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

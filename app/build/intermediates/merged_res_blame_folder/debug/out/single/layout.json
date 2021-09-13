@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_zoom.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_zoom.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\manga_details_item_list.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\manga_details_item_list.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_base.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_manga_viewpager_details.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_manga_viewpager_details.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_manga_details.xml",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_manga_details.xml"
+    }
+]

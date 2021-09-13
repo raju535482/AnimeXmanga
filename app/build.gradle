@@ -1,0 +1,122 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.rajuyadav.animexmanga"
+        minSdkVersion 26
+        targetSdkVersion 30
+        versionCode 4
+        versionName "1.0.0"
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    buildFeatures {
+        dataBinding true
+        viewBinding true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    packagingOptions {
+        exclude 'META-INF/atomicfu.kotlin_module'
+    }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.3.2'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation "android.arch.lifecycle:livedata:1.1.1"
+
+    //Recyclerview
+    implementation "androidx.recyclerview:recyclerview:1.2.0"
+    // For control over item selection of both touch and mouse driven selection
+    implementation "androidx.recyclerview:recyclerview-selection:1.1.0"
+
+    //retrofit
+    implementation "com.squareup.retrofit2:retrofit:2.9.0"
+    implementation "com.squareup.retrofit2:adapter-rxjava2:2.5.0"
+    implementation "com.squareup.retrofit2:converter-gson:2.9.0"
+    implementation "com.squareup.okhttp3:logging-interceptor:4.9.0"
+    implementation "io.reactivex.rxjava2:rxandroid:2.1.1"
+    implementation "com.squareup.retrofit2:converter-scalars:2.9.0"
+
+    //firebase
+    implementation platform('com.google.firebase:firebase-bom:28.0.1')
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+
+//    // Dagger 2
+    implementation "com.google.dagger:dagger:2.28.3"
+
+    kapt "com.google.dagger:dagger-compiler:2.27"
+    compileOnly "org.glassfish:javax.annotation:3.1.1"
+
+
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    kapt 'com.github.bumptech.glide:compiler:4.12.0'
+
+    //coroutines
+    api "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.1"
+    api "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.4.1"
+
+    //sdp & ssp
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    implementation 'com.intuit.ssp:ssp-android:1.0.6'
+
+    //multidex
+    implementation 'androidx.multidex:multidex:2.0.1'
+
+    //life cycle
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.3.1"
+    implementation "androidx.lifecycle:lifecycle-common-java8:2.3.1"
+    implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"
+
+    //noinspection LifecycleAnnotationProcessorWithJava8
+    kapt "android.arch.lifecycle:compiler:1.1.1"
+
+    //admob
+    implementation 'com.google.android.gms:play-services-ads:20.1.0'
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    kapt "com.android.databinding:compiler:3.1.4"
+
+    // Room components
+    implementation "androidx.room:room-ktx:2.3.0"
+    kapt "androidx.room:room-compiler:2.3.0"
+    androidTestImplementation "androidx.room:room-testing:2.3.0"
+
+}

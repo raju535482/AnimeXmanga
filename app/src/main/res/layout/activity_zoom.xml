@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="mainmodel"
+            type="com.rajuyadav.animexmanga.viewmodel.MainViewModel" />
+
+        <variable
+            name="imgURL"
+            type="String" />
+
+        <import type="android.view.View" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/color_black"
+        tools:context=".ui.ZoomActivity">
+
+        <com.rajuyadav.animexmanga.utilities.ZoomClass
+            android:id="@+id/largeImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

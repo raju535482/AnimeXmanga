@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "711913667573",
+    "firebase_url": "https://rakt-daan-d7da2.firebaseio.com",
+    "project_id": "rakt-daan-d7da2",
+    "storage_bucket": "rakt-daan-d7da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711913667573:android:6b5b2a6ef68c77654d3ebc",
+        "android_client_info": {
+          "package_name": "com.rajuyadav.animexmanga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711913667573-vqkv151f8gonvlapljegja6k6v03nnq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5jftrnjBeoH5OlWb75u19293agAQSDmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711913667573-vqkv151f8gonvlapljegja6k6v03nnq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711913667573:android:07050ce211f292004d3ebc",
+        "android_client_info": {
+          "package_name": "com.rajuyadav.pmexaminer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711913667573-vqkv151f8gonvlapljegja6k6v03nnq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5jftrnjBeoH5OlWb75u19293agAQSDmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711913667573-vqkv151f8gonvlapljegja6k6v03nnq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

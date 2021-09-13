@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_videos.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_videos.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_item_list.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\raw_video_manga.mp4.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\raw\\video_manga.mp4"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_manga_details_item_list.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\manga_details_item_list.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_videos.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_videos.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_videos.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_videos.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_videos_foreground.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\drawable\\ic_videos_foreground.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\drawable_message_options_border.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\drawable\\message_options_border.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_zoom.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_zoom.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_videos_round.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_videos_round.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_videos_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_videos_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_videos.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-mdpi\\ic_videos.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_manga.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_manga.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_manga.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-mdpi\\ic_manga.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_manga.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-hdpi\\ic_manga.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_videos_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-mdpi\\ic_videos_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_manga_viewpager_details.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_manga_viewpager_details.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_manga_details.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_manga_details.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_videos_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-hdpi\\ic_videos_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_base.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_videos.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-hdpi\\ic_videos.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_videos_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_videos_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\drawable_wanoarc.jpg.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\drawable\\wanoarc.jpg"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\drawable_manga.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\drawable\\manga.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_videos_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xhdpi\\ic_videos_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_manga.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_manga.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_videos.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xhdpi\\ic_videos.png"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\MyProjects\\AnimeXManga\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_manga.png.flat",
+        "source": "G:\\MyProjects\\AnimeXManga\\app\\src\\main\\res\\mipmap-xhdpi\\ic_manga.png"
+    }
+]

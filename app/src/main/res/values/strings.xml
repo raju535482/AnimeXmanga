@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AnimeXManga</string>
+    <string name="search_manga">Search Manga</string>
+    <string name="search_text">Search</string>
+    <string name="internet_text">No Internet Available, Please check your connection settings</string>
+    <string name="viewmodel_null_text">ViewModel Null found</string>
+    <string name="title_text">title</string>
+    <string name="admob_app_id">ca-app-pub-8970418354490647~8723078881</string>
+    <string name="admob_app_banner_id">ca-app-pub-8970418354490647/7026853837</string>
+    <string name="admob_app_interstitial_id">ca-app-pub-8970418354490647/9078302107</string>
+    <string name="exit_app_msg">Are you sure you want to exit from the App?</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="exit_app_title">Exit</string>
+    <string name="default_notification_channel_id">animexmanga_channel</string>
+</resources>

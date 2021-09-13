@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="mainmodel"
+            type="com.rajuyadav.animexmanga.viewmodel.MainViewModel" />
+
+        <variable
+            name="intPosition"
+            type="Integer" />
+
+        <variable
+            name="imgURL"
+            type="Integer" />
+
+        <variable
+            name="modelanimeinfo"
+            type="com.rajuyadav.animexmanga.modelclass.Animeinfo" />
+
+        <import type="android.view.View" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_2sdp"
+        app:cardBackgroundColor="@color/color_white"
+        app:cardCornerRadius="@dimen/_5sdp"
+        app:cardElevation="@dimen/_5sdp"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="@dimen/_5sdp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_white"
+            android:onClick="@{() -> mainmodel.onItemClick(modelanimeinfo)}"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/list_item_imgView_icon"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:contentDescription="@string/app_name"
+                android:scaleType="fitXY"
+                android:src="@mipmap/ic_manga"
+                android:visibility="visible"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <LinearLayout
+                android:gravity="center"
+                android:id="@+id/linearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/list_item_imgView_icon">
+
+                <TextView
+                    android:id="@+id/list_item_txtView_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blue_900"
+                    android:textSize="@dimen/_12ssp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/list_item_txtView_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:text="@{String.valueOf(modelanimeinfo.manga_chap)}"
+                    android:textColor="@color/blue_900"
+                    android:textSize="@dimen/_11ssp" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</layout>
